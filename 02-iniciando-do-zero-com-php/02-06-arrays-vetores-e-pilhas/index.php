@@ -26,6 +26,7 @@ fullStackPHPClassSession("associative array", __LINE__);
 
 $arrayAssoc = [
     "vocal" => "Brian",
+    "Vocal" => "Myles",
     "solo_guitar" => "Angus",
     "base_guitar" => "Malcom",
     "bass_guitar" => "cliff"
