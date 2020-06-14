@@ -18,7 +18,7 @@ fullStackPHPClassSession("isset, empty, !", __LINE__);
 
 $rock = "";
 if(!isset($rock)){
-    var_dump("rock and roll");
+    var_dump("rock and roll!");
 }
 else{
 var_dump('die');
